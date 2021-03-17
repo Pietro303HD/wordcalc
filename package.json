@@ -1,4 +1,14 @@
 {
   "name": "wordcalc",
-  "version": "1.0.0"
+  "version": "1.0.1",
+  "description": "Calculates words.",
+  "license": "MIT",
+  "repository": "Pietro303HD/wordcalc",
+  "main": "index.js",
+  "keywords": [
+    "word",
+    "calc",
+    "word calculator",
+    "pietro303"
+  ]
 }
