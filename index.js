@@ -9,7 +9,7 @@ characters.forEach((element, index) => {
   let char = pattern.find(x => element == x[0]);
   if (!char) {
     if (!parseInt(element)) {
-      char = ["", "0"]
+      char = ["", "-1"]
     } else {
     char = ["", element]
   };}
